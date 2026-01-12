@@ -1,4 +1,4 @@
-# KFC Power BI Analytics
+# Quick Service Restaurant (QSR) Power BI Analytics
 
 This project is an end-to-end Business Intelligence solution built in Power BI to analyze sales performance, store operations, customer ordering behavior, and month-on-month growth for a Quick Service Restaurant (KFC-style business).
 
